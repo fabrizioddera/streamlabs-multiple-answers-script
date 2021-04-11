@@ -1,0 +1,17 @@
+{
+  "output_file": "Settings/settings.json",
+  "Path": {
+    "type": "textbox",
+    "value": "C:\\path",
+    "label": "Jokes Path",
+    "tooltip": "The absolute path of the file",
+    "group": "Core"
+  },
+  "Command": {
+    "type": "textbox",
+    "value": "!joke",
+    "label": "Command name",
+    "tooltip": "Command name",
+    "group": "Core"
+  }
+}
