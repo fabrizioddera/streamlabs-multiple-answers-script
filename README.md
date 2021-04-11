@@ -20,4 +20,6 @@ Here you can set all the information to personalize the script
 
 ![image](https://user-images.githubusercontent.com/9437814/114305686-95fe8c00-9ad9-11eb-9bcc-f618e0c43b21.png)
 
+The txt file MUST have a response for each line
+
 Save and enable the script!
