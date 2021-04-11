@@ -18,7 +18,6 @@ Now, after a reload, you should see the script
 
 Here you can set all the information to personalize the script
 
-![image](https://user-images.githubusercontent.com/9437814/114305657-75363680-9ad9-11eb-930e-3aea4ac0e546.png)
-
+![image](https://user-images.githubusercontent.com/9437814/114305686-95fe8c00-9ad9-11eb-9bcc-f618e0c43b21.png)
 
 Save and enable the script!
